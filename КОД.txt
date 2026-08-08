@@ -1,0 +1,9 @@
+cd sing-box
+
+.\sing-box.exe run -c estonec.json
+
+.\sing-box.exe run -c kazax.json
+
+.\sing-box.exe run -c Polish.json 
+
+.\sing-box.exe run -c pendos.json 
